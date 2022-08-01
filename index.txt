@@ -3,7 +3,7 @@ vCard - Personal Portfolio
 # sidebar
 
 alt = Richard hanrick
-Richard hanrick
+Yuqi Song
 Web developer
 
 Show Contacts
